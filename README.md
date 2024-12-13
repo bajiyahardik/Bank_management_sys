@@ -115,9 +115,17 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Conclusion:
-
-The Bank Management System is a robust and user-friendly application, offering essential banking functionalities in a streamlined manner. It serves as an excellent tool for educational purposes, showcasing GUI development, database integration, and Python programming. We encourage users to explore, provide feedback, and contribute to the project's growth. Thank you for your interest!
+## Conclusion
+- The Bank Management System is a robust and user-friendly application offering essential banking functionalities.
+- Provides a streamlined approach to simulate core banking operations.
+- Serves as an excellent educational tool, showcasing:
+  - GUI development with Python.
+  - Database integration using MySQL.
+- Encourages users to:
+  - Explore the application.
+  - Provide feedback for improvements.
+  - Contribute to the project's growth.
+- Thank you for your interest in the Bank Management System!
 
 ---
 
