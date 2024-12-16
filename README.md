@@ -11,7 +11,7 @@ The **Bank Management System** is a user-friendly application designed to simula
 - **Deposit Money**: Add funds to the user's account balance.
 - **Withdraw Money**: Safely withdraw funds with balance checks.
 - **Check Balance**: View the current account balance in real-time.
-
+= **Delete Account**: To delete existing account from database.
 ---
 
 ## Technologies Used
@@ -75,6 +75,11 @@ The **Bank Management System** is a user-friendly application designed to simula
 ![withdraw amount ](https://github.com/user-attachments/assets/850f2c59-fc20-43ef-b29f-dc4190bbc794)
 ![succes](https://github.com/user-attachments/assets/806958a4-2fc4-43f8-9466-c3ce6cd6f748)
 ![Balance check](https://github.com/user-attachments/assets/dab25988-926f-48a8-8903-745898cfcbc9)
+
+### Delete account:
+![delete](https://github.com/user-attachments/assets/3128cd70-ba14-49e1-ab70-0952a61e3cb2)
+![Asking](https://github.com/user-attachments/assets/8129b2cf-2a76-4d4c-827b-946c471e8f0c)
+![Succesfully deleted](https://github.com/user-attachments/assets/58a826dc-80b9-489c-ab60-e4c2c9b12da1)
 
 
 
