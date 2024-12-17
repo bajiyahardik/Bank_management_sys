@@ -91,15 +91,15 @@ The **Bank Management System** is a user-friendly application designed to simula
 
 ---
 
-## File Structure
-```
-project-directory/
+ ## project-directory :
 ├── bank_management_system.py   # Main script
-├── README.md                   # This README file
-└── screenshots/                # Folder for screenshots
-    ├── login_screen.png
-    ├── create_account.png
-    └── dashboard.png
+├── bank_management_system.exe  # Executable file
+├── README.md                   # Project documentation
+├── screenshots/                # Folder for screenshots
+│   ├── login_screen.png
+│   ├── create_account.png
+│   └── dashboard.png
+└── dist/                       # Optional: Keep the dist folder for reference
 ```
 
 ---
@@ -117,12 +117,6 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-
-## Acknowledgments
-- Thanks to [OpenAI](https://openai.com) for assistance in creating this README.
-- 
-- Inspired by the need for simple banking systems for educational purposes.
 
 ---
 
@@ -141,4 +135,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Download
-[Download the Application](https://github.com/your-username/bank-management-system/archive/refs/heads/main.zip)
+👉 Download bank_management.exe
