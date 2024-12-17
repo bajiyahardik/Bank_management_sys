@@ -149,4 +149,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Download
-👉 Download bank_management.exe
+👉 Download : https://drive.google.com/file/d/1o10ZVbfaIBieEobLam9CZJI5ckWZwzVx/view?usp=drive_link
