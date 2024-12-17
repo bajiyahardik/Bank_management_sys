@@ -88,36 +88,16 @@ The **Bank Management System** is a user-friendly application designed to simula
 ![Succesfully deleted](https://github.com/user-attachments/assets/58a826dc-80b9-489c-ab60-e4c2c9b12da1)
 
 ---
- ## bank-management-system/
- 
+## bank-management-system/
 ├── bank_management_system.py   # Main script: Core logic and GUI using Tkinter
-
 ├── bank_management_system.exe  # Executable file for running the application directly
-
 ├── README.md                   # Project documentation
-
 ├── LICENSE                     # License file (MIT License)
-
 ├── requirements.txt            # Dependencies for the project
-
-├── screenshots/                # Folder containing project screenshots\
-
+├── screenshots/                # Folder containing project screenshots
 │   ├── login_screen.png        # Screenshot: Login screen
-
 │   ├── create_account.png      # Screenshot: Account creation screen
-
-│   ├── dashboard.png           # Screenshot: User dashboard
-
-│   ├── deposit.png             # Screenshot: Deposit functionality
-
-│   ├── withdraw.png            # Screenshot: Withdraw functionality
-
-│   └── delete_account.png      # Screenshot: Account deletion
-
-└── dist/                       # Distribution folder for executables
-
-    └── ...                     # Additional deployment files if any
-
+│   ├── dashboar
 
 
 ---
