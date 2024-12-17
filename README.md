@@ -87,8 +87,6 @@ The **Bank Management System** is a user-friendly application designed to simula
 ![Asking](https://github.com/user-attachments/assets/8129b2cf-2a76-4d4c-827b-946c471e8f0c)
 ![Succesfully deleted](https://github.com/user-attachments/assets/58a826dc-80b9-489c-ab60-e4c2c9b12da1)
 
-
-
 ---
 
  ## project-directory :
