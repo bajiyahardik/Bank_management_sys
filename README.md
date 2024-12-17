@@ -88,7 +88,7 @@ The **Bank Management System** is a user-friendly application designed to simula
 ![Succesfully deleted](https://github.com/user-attachments/assets/58a826dc-80b9-489c-ab60-e4c2c9b12da1)
 
 ---
- ## bank-management-system
+ ## bank-management-system/
 ├── bank_management_system.py   # Main script: Core logic and GUI using Tkinter
 ├── bank_management_system.exe  # Executable file for running the application directly
 ├── README.md                   # Project documentation
