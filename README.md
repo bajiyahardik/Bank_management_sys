@@ -55,26 +55,32 @@ The **Bank Management System** is a user-friendly application designed to simula
 
 ## Example Screenshots
 ### Login Screen:
-![Inter face](https://github.com/user-attachments/assets/196ac56c-4b74-444d-9f19-a7be1f3b7413)
+![image](https://github.com/user-attachments/assets/5b786535-0bb8-4a83-b9de-5d4c6b26392f)
+
 
 
 ### Account Creation:
-![Create](https://github.com/user-attachments/assets/b588396b-3acb-4863-be3b-c3719eb70a69)
-![Creted done ](https://github.com/user-attachments/assets/dd79ae47-7a73-4168-9c34-e5c6677b31cd)
+![image](https://github.com/user-attachments/assets/f1d0a153-cf9e-4941-9d82-451a5b00be97)
+
+![image](https://github.com/user-attachments/assets/eeb377cb-4ad2-4706-8f6a-d4d9e36ca17c)
+
 
 
 ### User Dashboard:
-![image](https://github.com/user-attachments/assets/1988431d-2dc2-45bd-b378-ab690a7407e7)
+![image](https://github.com/user-attachments/assets/d3901fec-0a1b-413d-99bd-e4b7f633dbae)
+
 
 ### Deposit:
-![deposit](https://github.com/user-attachments/assets/6f2bcfc0-8f49-48f6-8d4d-9b3b05e319ca)
-![success](https://github.com/user-attachments/assets/a1d12bd0-0a94-464b-a22f-c50bf9ce3c38)
-![Balance Check ](https://github.com/user-attachments/assets/5c73570a-c0c1-4787-bb69-203738b36594)
+![image](https://github.com/user-attachments/assets/521c4e6e-ce47-476a-a778-7e9c317fb6b1)
+![image](https://github.com/user-attachments/assets/d9548b92-fc7a-4c65-a808-9788599eba64)
+![image](https://github.com/user-attachments/assets/0600e69d-beff-4a6d-b17c-ec588026a207)
+
 
 ### Withdrwal:
-![withdraw amount ](https://github.com/user-attachments/assets/850f2c59-fc20-43ef-b29f-dc4190bbc794)
-![succes](https://github.com/user-attachments/assets/806958a4-2fc4-43f8-9466-c3ce6cd6f748)
-![Balance check](https://github.com/user-attachments/assets/dab25988-926f-48a8-8903-745898cfcbc9)
+![image](https://github.com/user-attachments/assets/33ab1d09-e7c2-4a2f-9704-b29beb1b3adc)
+![image](https://github.com/user-attachments/assets/8a85738a-2b04-4374-846a-b6e89cbd99fa)
+![image](https://github.com/user-attachments/assets/03c2f984-35b8-453c-8854-a3f2b6816faf)
+
 
 ### Delete account:
 ![delete](https://github.com/user-attachments/assets/3128cd70-ba14-49e1-ab70-0952a61e3cb2)
